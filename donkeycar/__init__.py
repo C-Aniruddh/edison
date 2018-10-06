@@ -1,6 +1,6 @@
-__version__ = '2.2.1'
+__version__ = '1.0'
 
-print('using donkey v{} ...'.format(__version__))
+print('Booting Edison 1.0'.format(__version__))
 
 import sys
 
